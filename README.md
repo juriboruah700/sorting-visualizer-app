@@ -1,6 +1,7 @@
 # Sorting-visualizer
 The Sorting Visualizer App is a web-based tool that provides an interactive and visual representation of various sorting algorithms. This application is designed to help users understand how different sorting algorithms work by displaying the step-by-step sorting process in a visually appealing manner.
 
+![Screenshot (315)](https://github.com/juriboruah700/sorting-visualizer-app/assets/77110165/e2f5ea4f-0f2b-4f61-acff-06af8d9de92c)
 
 # Features
 Interactive Visualization: Watch sorting algorithms in action through a dynamic and interactive visualization of the sorting process.
@@ -17,4 +18,4 @@ Adjust the array size  using the respective controls.
 Click the "Generate New Array" button to create a new random array.
 Observe the sorting process and watch the bars move and rearrange themselves according to the selected algorithm.
 
-![Screenshot (315)](https://github.com/juriboruah700/sorting-visualizer-app/assets/77110165/e2f5ea4f-0f2b-4f61-acff-06af8d9de92c)
+
